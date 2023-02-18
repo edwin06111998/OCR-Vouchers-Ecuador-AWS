@@ -1,0 +1,33 @@
+{
+  "name": "line-segmentation-algorithm-to-gcp-vision",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "npm rebuild grpc --target=16.4.0 --target_arch=x64 --target_platform=linux --target_libc=glibc",
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sshniro/line-segmentation-algorithm-to-gcp-vision.git"
+  },
+  "author": "Nirojan Selvanathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sshniro/line-segmentation-algorithm-to-gcp-vision/issues"
+  },
+  "homepage": "https://github.com/sshniro/line-segmentation-algorithm-to-gcp-vision#readme",
+  "dependencies": {
+    "@google-cloud/vision": "^3.0.1",
+    "@grpc/grpc-js": "^1.7.1",
+    "deepcopy": "^0.6.3",
+    "express": "^4.18.2",
+    "got": "^12.5.1",
+    "jest": "^29.1.2",
+    "jsonfile": "^4.0.0",
+    "point-in-polygon": "^1.0.1",
+    "request": "^2.88.2",
+    "xhr2": "*"
+  }
+}
