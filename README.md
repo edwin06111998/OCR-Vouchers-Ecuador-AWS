@@ -1,8 +1,6 @@
 <h1 align="center">Lectura de recibos con Inteligencia Artificial</h1>
 <p align="center">
-  <a href="https://gitpoint.co/">
     <img alt="Chatbot" title="Chatbot" src="https://raw.githubusercontent.com/edwin06111998/reconocer_recibos_AWS/main/imagenes/Captura%20desde%202023-02-17%2023-19-55.png" width="250">
-    <a href="https://gitpoint.co/">
     <img alt="Chatbot" title="Chatbot" src="https://raw.githubusercontent.com/edwin06111998/reconocer_recibos_AWS/main/imagenes/Captura%20desde%202023-02-17%2023-22-12.png" width="250">
   </a>
 </p>
