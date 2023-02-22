@@ -1,9 +1,8 @@
-<h1 align="center">Lectura de recibos con Inteligencia Artificial</h1>
 <p align="center">
-    <img alt="Chatbot" title="Chatbot" src="https://raw.githubusercontent.com/edwin06111998/reconocer_recibos_AWS/main/imagenes/Captura%20desde%202023-02-17%2023-19-55.png" width="250">
-    <img alt="Chatbot" title="Chatbot" src="https://raw.githubusercontent.com/edwin06111998/reconocer_recibos_AWS/main/imagenes/Captura%20desde%202023-02-17%2023-22-12.png" width="250">
+    <img alt="Chatbot" title="Chatbot" src="https://github.com/edwin06111998/Imagenes/blob/main/Proceso%20Chatbot/Header%20AWS.jpg">
   </a>
 </p>
+<h1 align="center">Lectura de recibos con Inteligencia Artificial</h1>
 
 <p align="center">
   Lector de recibos usando la API de Google Cloud Vision.
