@@ -2,6 +2,7 @@
     <img alt="Chatbot" title="Chatbot" src="https://github.com/edwin06111998/Imagenes/blob/main/Proceso%20Chatbot/Header%20AWS.jpg">
   </a>
 </p>
+
 <h1 align="center">Lectura de recibos con Inteligencia Artificial</h1>
 
 <p align="center">
